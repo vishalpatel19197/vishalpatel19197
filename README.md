@@ -36,6 +36,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Languages](./rgs-wave.gif)
+![Top Languages](./2826604.jpg)
 
 #### Keep learning and stay curious.
