@@ -32,7 +32,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=UmangKosrekar&icon=5&color=10)](https://visitcount.itsvg.in)
+![Personal Pic](./VISHAL_FULLSTECK.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
