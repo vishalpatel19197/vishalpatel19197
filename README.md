@@ -30,12 +30,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
-
-
-![Personal Pic](./VISHAL_FULLSTECK.png)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Languages](./2826604.jpg)
+![Top Languages](./VISHAL_FULLSTECK.png)
 
 #### Keep learning and stay curious.
